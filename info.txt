@@ -6,3 +6,4 @@ Change from main branch.
 Adding one more line for the update.
 Change from dev2 branch.
 >>>>>>> dev2
+Local change
