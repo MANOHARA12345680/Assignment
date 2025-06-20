@@ -1,3 +1,8 @@
 This is a sample info file.
 It contains some basic information.
+<<<<<<< HEAD
 Change from main branch.
+=======
+Adding one more line for the update.
+Change from dev2 branch.
+>>>>>>> dev2
